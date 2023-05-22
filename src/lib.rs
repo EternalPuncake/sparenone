@@ -55,6 +55,9 @@ pub fn prompt() -> io::Result<usize> {
 
             look_for(trimmed_drive, trimmed_name)?;
         }
+        "copy" => {
+            copied_to()?;
+        }
         _ => {},
         }
     Ok(1)
