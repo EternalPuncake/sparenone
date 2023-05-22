@@ -50,6 +50,8 @@ Contents
    ### Method 2:
    get from the releases tab
 
+   add to system path
+
    ***
 
 ## usage
